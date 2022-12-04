@@ -292,6 +292,11 @@ a:hover {
     z-index: 1;
 }
 
+.keywords {
+    color:#cccccc;
+    font-size: 1px;
+}
+
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
