@@ -1037,3 +1037,13 @@ h4 {
         text-align: center;
     }
 }
+
+.citation {
+    font-size: 1.8rem;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.author {
+    font-size: 1.8rem;
+}
