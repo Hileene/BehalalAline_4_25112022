@@ -701,6 +701,7 @@ p {
 }
 
 h3 {
+    font-size: clamp(1.5rem, 1.8rem, 2rem);
     text-transform: uppercase;
     font-weight: 700;
     color: black;
@@ -714,6 +715,14 @@ h3 {
 
 h1 {
     color: #333333!important;
+}
+
+h2 {
+    font-size: 22px;
+    font-family: "helvetica";
+    font-weight: 700;
+    line-height: 1.4em;
+
 }
 
 h4 {
@@ -770,13 +779,15 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #FFFFFF!important;
+    color: black!important;
+    font-weight: 700;
+   
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #F3976C!important;
+    color: black!important;
 }
 
 .ltc-white {
@@ -1032,12 +1043,7 @@ h4 {
     }
 }
 
-h2 {
-    font-size: 22px;
-    font-family: "helvetica";
-    font-weight: 700;
 
-}
 
 .bloc-2-h2 {
     
