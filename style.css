@@ -1036,8 +1036,9 @@ h4 {
     font-family: "helvetica";
     font-size: clamp(1.5rem, 2.5rem, 2.8rem);
     font-weight: 700;
+    margin-bottom: 35px;
     margin: 0 auto;
-    color: black
+    color: black;
     
 }
 
