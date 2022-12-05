@@ -637,7 +637,6 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -699,11 +698,6 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
-}
-
-h2 {
-    font-size: 22px;
-    line-height: 1.4em;
 }
 
 h3 {
@@ -1037,6 +1031,17 @@ h4 {
         text-align: center;
     }
 }
+
+
+.bloc-2-h2 {
+    font-family: "helvetica";
+    width: 100%;
+    font-weight: 500;
+    margin: 0 auto;
+    color: black
+    
+}
+
 
 .citation {
     font-size: 1.8rem;
