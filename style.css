@@ -1095,6 +1095,6 @@ h4 {
 .img-responsive {
     margin: auto;
     width: 360px;
-    height: 400px;
+    /*height: 400px;*/
     padding: 20px 0 20px 0;
 }
