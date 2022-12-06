@@ -1047,6 +1047,15 @@ h4 {
 }
 
 
+.img-logo {
+    width: 100%;
+    height: 70px;
+}
+
+.image-resize-mode {
+    width: 30%;
+    height: 15%;
+}
 
 .bloc-h2 {
     
