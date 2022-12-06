@@ -1058,7 +1058,7 @@ h4 {
 
 .image-resize-mode {
     width: 30%;
-    /*height: 15%;*/
+    height: 15%;
 }
 
 .bloc-h2 {
@@ -1095,6 +1095,6 @@ h4 {
 .img-responsive {
     margin: auto;
     width: 360px;
-    /*height: 400px;*/
+    height: 400px;
     padding: 20px 0 20px 0;
 }
