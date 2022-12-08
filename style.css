@@ -8,10 +8,9 @@ body {
 }
 
 img{
-    max-width: 100%;
-    height: auto;
     object-fit: cover;
 }
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -1054,10 +1053,10 @@ h4 {
 }
 
 
-.img-logo {
-    width: 100%;
+/*.img-logo {
+    width: 30px;
     height: 70px;
-}
+}*/
 
 .image-resize-mode {
     width: 30%;
@@ -1065,7 +1064,6 @@ h4 {
 }
 
 .bloc-h2 {
-    
     font-size: clamp(1.5rem, 2.2rem, 2.8rem);
     margin-bottom: 35px;
     margin: 0 auto;
@@ -1096,6 +1094,8 @@ h4 {
 
 
 .img-responsive {
+    max-width: 100%;
+    height: auto;
     margin: auto;
     padding: 20px 0 20px 0;
 }
