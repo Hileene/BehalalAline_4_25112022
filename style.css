@@ -122,7 +122,7 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-/*.d-bloc a .icon-md,*/
+.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -139,7 +139,7 @@ a:hover {
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
 .d-bloc a:hover .icon-sm,
-/*.d-bloc a:hover .icon-md,*/
+.d-bloc a:hover .icon-md,
 .d-bloc a:hover .icon-lg,
 .d-bloc a:hover .icon-xl,
 .d-bloc h1 a:hover,
@@ -220,7 +220,7 @@ a:hover {
 .l-bloc .navbar a,
 .l-bloc .navbar-brand,
 .l-bloc a .icon-sm,
-/*.l-bloc a .icon-md,*/
+.l-bloc a .icon-md,
 .l-bloc a .icon-lg,
 .l-bloc a .icon-xl,
 .l-bloc h1 a,
@@ -238,7 +238,7 @@ a:hover {
 .l-bloc .navbar a:hover,
 .l-bloc .navbar-brand:hover,
 .l-bloc a:hover .icon-sm,
-/*.l-bloc a:hover .icon-md,*/
+.l-bloc a:hover .icon-md,
 .l-bloc a:hover .icon-lg,
 .l-bloc a:hover .icon-xl,
 .l-bloc h1 a:hover,
@@ -1051,11 +1051,6 @@ h4 {
 }
 
 
-/*.img-logo {
-    width: 30px;
-    height: 70px;
-}*/
-
 .image-resize-mode {
     width: 30%;
     height: 15%;
@@ -1101,4 +1096,12 @@ h4 {
 .flex-icons {
     display: flex;
     justify-content: space-between;
+}
+
+.nav-text {
+    font-size: 2.2rem;   
+}
+
+.nav-text:hover {
+   color: #f3976c !important;
 }
