@@ -8077,3 +8077,8 @@ button.close {
         display: none !important
     }
 }
+.col-sm-4 {
+    margin-top: 50px;
+    padding: 0 10px;
+    text-align: justify
+}
