@@ -1050,12 +1050,6 @@ h4 {
     }
 }
 
-
-.image-resize-mode {
-    width: 30%;
-    height: 15%;
-}
-
 .bloc-h2 {
     font-size: clamp(1.5rem, 2.2rem, 2.8rem);
     margin-bottom: 35px;
