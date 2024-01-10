@@ -7,7 +7,7 @@
 *Projet #4 : Formation Développeur Web [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) <img src="/images/powered-by-candy.svg" alt="For The Badge Candy image" />
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) <img src="/img/powered-by-candy.svg" alt="For The Badge Candy image" />
 
 [La Panthère](https://hileene.github.io/BehalalAline_4_25112022/) - [La Panthère avant optimisation]() - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
 
@@ -50,25 +50,26 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 
 ## 14 Recommendations d'Optimisation
 
-- **SEO:**
-    1. Ajouter du contenu à la balise <meta description> vide
-    2. Ajouter un titre dans la balise <title> vide
-    3. Ajouter une balise <meta robots>
-    4. Restructurer l’ordre des titres hn en ajoutant une balise <h2>
+**SEO:**
+1. Ajouter du contenu à la balise `<meta description>` vide
+2. Ajouter un titre dans la balise `<title>` vide
+3. Ajouter une balise `<meta robots>`
+4. Restructurer l’ordre des titres hn en ajoutant une balise `<h2>`
 
-- **Accessibilité:**
-    1. Augmenter le contraste entre le texte et l’arrière-plan
-    2. Adapter les textes « alt » au contenu des images
-    3. Augmenter la taille de la police
-    4. Ajouter du texte aux liens des réseaux sociaux
-    5. Modifier les liens redondants
-    6. Lier des éléments <input> à des éléments <label> dans le formulaire
-    7. Ajouter le focus aux éléments activables (liens, boutons, formulaire)
 
-- **Performance:**
-    1. Optimiser les images en termes de format et de taille et leur appliquer une largeur et une hauteur
-    2. Minifier certains fichiers CSS et Javascript
-    3. Ajouter les propriété et valeur « font-display : swap » au bloc @font-face
+**Accessibilité:**
+1. Augmenter le contraste entre le texte et l’arrière-plan
+2. Adapter les textes « alt » au contenu des images
+3. Augmenter la taille de la police
+4. Ajouter du texte aux liens des réseaux sociaux
+5. Modifier les liens redondants
+6. Lier des éléments `<input>` à des éléments `<label>` dans le formulaire
+7. Ajouter le focus aux éléments activables (liens, boutons, formulaire)
+
+**Performance:**
+1. Optimiser les images en termes de format et de taille et leur appliquer une largeur et une hauteur
+2. Minifier certains fichiers CSS et Javascript
+3. Ajouter les propriété et valeur « font-display : swap » au bloc @font-face
 
 ## Développé Avec
 
