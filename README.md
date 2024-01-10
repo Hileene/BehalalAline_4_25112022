@@ -19,7 +19,7 @@
 
 - [Description du projet](#description-du-projet)
 - [Scénario fictif](#scénario-fictif)
-- [Compétences évaluées](##compétences-évaluées)
+- [Compétences évaluées](#compétences-évaluées)
 - [14 recommendations d'optimisation](#14-recommendations-d-optimisation)
 - [Développé avec](#développé-avec)
 - [Auteur](#auteur)
