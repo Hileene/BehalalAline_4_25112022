@@ -20,7 +20,7 @@
 - [Description du projet](#description-du-projet)
 - [Scénario fictif](#scénario-fictif)
 - [Compétences évaluées](#compétences-évaluées)
-- [14 recommendations d'optimisation](#14-recommendations-d-optimisation)
+- [14 recommendations d'optimisation](#14-recommendations-doptimisation)
 - [Développé avec](#développé-avec)
 - [Auteur](#auteur)
 
@@ -84,7 +84,7 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 -   [GitHub](https://github.com/) 
 -   [GitHub Pages](https://pages.github.com/)
 
-## Author
+## Auteur
 - [@hileene](https://www.github.com/Hileene) 
 - [**Portfolio**](https://portfolio-test.com)
 
