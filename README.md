@@ -102,7 +102,7 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 - [Fictional Scenario](#fictional-scenario)
 - [Skills Evaluated](#skills-evaluated)
 - [14 Optimization Recommendations](#14-optimization-recommendations)
-- [Developed With](#developed-with)
+- [Built With](#developed-with)
 - [Author](#author)
 
 ## Description of the Project
@@ -150,7 +150,7 @@ Our web design agency, La Panthère, had a very successful first year, but today
 2. Minify certain CSS and JavaScript files
 3. Add the property and value "font-display: swap" to the @font-face block
 
-## Developed With
+## Built With
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [W3C Validator](https://validator.w3.org/)
