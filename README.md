@@ -18,6 +18,7 @@
 ## Sommaire
 
 - [Description du Projet](#description-du-projet)
+- [Technologies](#technologies)
 - [Scénario Fictif](#scénario-fictif)
 - [Compétences Évaluées](#compétences-évaluées)
 - [14 Recommendations d'Optimisation](#14-recommendations-doptimisation)
@@ -34,6 +35,11 @@ Ma mission était d'améliorer le référencement du site de l'agence La Panthè
   - Appliquer les recommendations au contenu et à son code source
 - **Fournir un rapport d'optimisation comparative:**
   - Mesurer la vitesse de chargement avant et après l'optimisation du site
+
+## Technologies
+
+- HTML
+- CSS
 
 ## Scénario Fictif
 
@@ -100,14 +106,15 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 
 ## Table of Contents
 
-- [Description of the Project](#description-of-the-project)
+- [Project Description](#project-description)
+- [Technologies](#technologies)
 - [Fictional Scenario](#fictional-scenario)
 - [Assessed Skills](#assessed-skills)
 - [14 Optimization Recommendations](#14-optimization-recommendations)
-- [Built With](#developed-with)
+- [Built With](#built-with)
 - [Author](#author)
 
-## Description of the Project
+##  Project Description
 
 My mission was to improve the SEO of La Panthère agency's website by working on the following points:
 
@@ -117,6 +124,11 @@ My mission was to improve the SEO of La Panthère agency's website by working on
   - Apply the recommendations to the content and its source code
 - **Provide a comparative optimization report:**
   - Measure the loading speed before and after optimizing the site
+
+## Technologies
+
+- HTML
+- CSS  
 
 ## Fictional Scenario
 
