@@ -17,11 +17,11 @@
 
 ## Sommaire
 
-- [Description du projet](#description-du-projet)
-- [Scénario fictif](#scénario-fictif)
-- [Compétences évaluées](#compétences-évaluées)
-- [14 recommendations d'optimisation](#14-recommendations-doptimisation)
-- [Développé avec](#développé-avec)
+- [Description du Projet](#description-du-projet)
+- [Scénario Fictif](#scénario-fictif)
+- [Compétences Évaluées](#compétences-évaluées)
+- [14 Recommendations d'Optimisation](#14-recommendations-doptimisation)
+- [Développé Avec](#développé-avec)
 - [Auteur](#auteur)
 
 ## Description du Projet
@@ -96,11 +96,13 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 
 *Project #4: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
 
+[La Panthère](https://hileene.github.io/BehalalAline_4_25112022/) - [La Panthère before optimization](https://hileene.github.io/BehalalAline_4_avant_optimisation/)
+
 ## Table of Contents
 
 - [Description of the Project](#description-of-the-project)
 - [Fictional Scenario](#fictional-scenario)
-- [Skills Evaluated](#skills-evaluated)
+- [Assessed Skills](#assessed-skills)
 - [14 Optimization Recommendations](#14-optimization-recommendations)
 - [Built With](#developed-with)
 - [Author](#author)
@@ -120,7 +122,7 @@ My mission was to improve the SEO of La Panthère agency's website by working on
 
 Our web design agency, La Panthère, had a very successful first year, but today we are losing momentum. Competition is fierce, and our digital strategy is not up to par. When searching for "Web design company Lyon," we notice that our site appears on the second page. An update to both the SEO and the site itself has been requested by Sophie, the founder.
 
-## Skills Evaluated
+## Assessed Skills
 
 - Write maintainable HTML and CSS code
 - Optimize the SEO of a website
