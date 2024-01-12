@@ -47,11 +47,11 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 
 ## Compétences Évaluées
 
-- Écrire un code HTML et CSS maintenable
-- Optimiser le référencement d'un site web
-- Optimiser la taille et la vitesse d’un site web
-- Assurer l'accessibilité d'un site web
-- Réaliser une recherche des bonnes pratiques en développement web
+- 📝 Écrire un code HTML et CSS maintenable
+- 📈 Optimiser le référencement d'un site web
+- 🚀 Optimiser la taille et la vitesse d’un site web
+- ♿ Assurer l'accessibilité d'un site web
+- 📚 Réaliser une recherche des bonnes pratiques en développement web
 
 
 ## 14 Recommendations d'Optimisation
@@ -136,11 +136,11 @@ Our web design agency, La Panthère, had a very successful first year, but today
 
 ## Assessed Skills
 
-- Write maintainable HTML and CSS code
-- Optimize the SEO of a website
-- Optimize the size and speed of a website
-- Ensure the accessibility of a website
-- Conduct research on best practices in web development
+- 📝 Write maintainable HTML and CSS code
+- 📈 Optimize the SEO of a website
+- 🚀 Optimize the size and speed of a website
+- ♿ Ensure the accessibility of a website
+- 📚 Conduct research on best practices in web development
 
 ## 14 Optimization Recommendations
 
