@@ -80,7 +80,7 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 -   [Wave](https://wave.webaim.org/) (Accessibilité)
 -   [Colour Contrast Analyzer](https://developer.paciellogroup.com/color-contrast-checker/)
 -   [Pingdom](https://tools.pingdom.com/) (Pour la taille du site et des dossiers/fichiers)
--   Dev tool Google Chrome
+-   [Dev tool Google Chrome](https://developer.chrome.com/)
 -   [GitHub](https://github.com/) 
 -   [GitHub Pages](https://pages.github.com/)
 
@@ -161,7 +161,7 @@ Our web design agency, La Panthère, had a very successful first year, but today
 - [Wave](https://wave.webaim.org/) (Accessibility)
 - [Colour Contrast Analyzer](https://developer.paciellogroup.com/color-contrast-checker/)
 - [Pingdom](https://tools.pingdom.com/) (For site and file/folder size)
-- Google Chrome DevTools
+- [Dev tool Google Chrome](https://developer.chrome.com/)
 - [GitHub](https://github.com/)
 - [GitHub Pages](https://pages.github.com/)
 
