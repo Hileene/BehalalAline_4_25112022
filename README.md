@@ -1,19 +1,103 @@
-# Optimisez un site Web existant
+# Optimize an Existing Website
 
 <p align="center">
   <img src="/img/banner_la_panthère.png" alt="Bannière Agence La Panthère">
 </p>
 
-*Projet #4 : Formation Développeur Web [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
+*Project #4: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
 
 
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) <img src="/img/powered-by-candy.svg" alt="For The Badge Candy image" />
 
-[La Panthère](https://hileene.github.io/BehalalAline_4_25112022/) - [La Panthère avant optimisation](https://hileene.github.io/BehalalAline_4_avant_optimisation/) - <a href="#version-française">README FR</a> - <a href="#english-version">README EN</a>
-
+ [La Panthère](https://hileene.github.io/BehalalAline_4_25112022/) - [La Panthère before optimization](https://hileene.github.io/BehalalAline_4_avant_optimisation/) - <a href="#version-française">README FR</a> 
 
 ---
+
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Technologies](#technologies)
+- [Fictional Scenario](#fictional-scenario)
+- [Assessed Skills](#assessed-skills)
+- [14 Optimization Recommendations](#14-optimization-recommendations)
+- [Built With](#built-with)
+- [Author](#author)
+
+##  Project Description
+
+My mission was to improve the SEO of La Panthère agency's website by working on the following points:
+
+- **Analysis of the current SEO state of the provided site:**
+  - Select at least 10 recommendations to improve the site
+- **Improvement of the site's SEO:**
+  - Apply the recommendations to the content and its source code
+- **Provide a comparative optimization report:**
+  - Measure the loading speed before and after optimizing the site
+
+## Technologies
+
+- HTML
+- CSS  
+
+## Fictional Scenario
+
+Our web design agency, La Panthère, had a very successful first year, but today we are losing momentum. Competition is fierce, and our digital strategy is not up to par. When searching for "Web design company Lyon," we notice that our site appears on the second page. An update to both the SEO and the site itself has been requested by Sophie, the founder.
+
+## Assessed Skills
+
+- 📝 Write maintainable HTML and CSS code
+- 📈 Optimize the SEO of a website
+- 🚀 Optimize the size and speed of a website
+- ♿ Ensure the accessibility of a website
+- 📚 Conduct research on best practices in web development
+
+## 14 Optimization Recommendations
+
+**SEO:**
+1. Add content to the empty `<meta description>` tag
+2. Add a title to the empty `<title>` tag
+3. Add a `<meta robots>` tag
+4. Restructure the order of hn headings by adding an `<h2>` tag
+
+**Accessibility:**
+1. Increase the contrast between text and background
+2. Adapt "alt" text to the content of images
+3. Increase font size
+4. Add text to social media links
+5. Modify redundant links
+6. Link `<input>` elements to `<label>` elements in the form
+7. Add focus to clickable elements (links, buttons, forms)
+
+**Performance:**
+1. Optimize images in terms of format and size and apply width and height
+2. Minify certain CSS and JavaScript files
+3. Add the property and value "font-display: swap" to the @font-face block
+
+## Built With
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [W3C Validator](https://validator.w3.org/)
+- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en&pli=1) (Performance, Accessibility, SEO)
+- [Pagespeed](https://pagespeed.web.dev/?hl=en) (Performance, Accessibility, SEO)
+- [Wave](https://wave.webaim.org/) (Accessibility)
+- [Colour Contrast Analyzer](https://developer.paciellogroup.com/color-contrast-checker/)
+- [Pingdom](https://tools.pingdom.com/) (For site and file/folder size)
+- [Dev tool Google Chrome](https://developer.chrome.com/)
+- [GitHub](https://github.com/)
+- [GitHub Pages](https://pages.github.com/)
+
+## Author
+
+- [@hileene](https://www.github.com/Hileene)
+- [**Portfolio**](https://portfolio-test.com)
+
+---
+
 ## VERSION FRANÇAISE
+
+## Optimisez un site Web existant
+
+*Projet #4 : Formation Développeur Web [OpenClassrooms](https://openclassrooms.com/fr/paths/717-developpeur-web)*
 
 ## Sommaire
 
@@ -94,93 +178,15 @@ Notre agence de web design La Panthère a connu est très bon départ la premiè
 - [@hileene](https://www.github.com/Hileene) 
 - [**Portfolio**](https://portfolio-test.com)
 
----
 
-## ENGLISH VERSION
 
-# Optimize an Existing Website
 
-*Project #4: Web Developer Training [OpenClassrooms](https://openclassrooms.com/en/paths/717-web-developer)*
 
-[La Panthère](https://hileene.github.io/BehalalAline_4_25112022/) - [La Panthère before optimization](https://hileene.github.io/BehalalAline_4_avant_optimisation/)
 
-## Table of Contents
 
-- [Project Description](#project-description)
-- [Technologies](#technologies)
-- [Fictional Scenario](#fictional-scenario)
-- [Assessed Skills](#assessed-skills)
-- [14 Optimization Recommendations](#14-optimization-recommendations)
-- [Built With](#built-with)
-- [Author](#author)
 
-##  Project Description
 
-My mission was to improve the SEO of La Panthère agency's website by working on the following points:
 
-- **Analysis of the current SEO state of the provided site:**
-  - Select at least 10 recommendations to improve the site
-- **Improvement of the site's SEO:**
-  - Apply the recommendations to the content and its source code
-- **Provide a comparative optimization report:**
-  - Measure the loading speed before and after optimizing the site
-
-## Technologies
-
-- HTML
-- CSS  
-
-## Fictional Scenario
-
-Our web design agency, La Panthère, had a very successful first year, but today we are losing momentum. Competition is fierce, and our digital strategy is not up to par. When searching for "Web design company Lyon," we notice that our site appears on the second page. An update to both the SEO and the site itself has been requested by Sophie, the founder.
-
-## Assessed Skills
-
-- 📝 Write maintainable HTML and CSS code
-- 📈 Optimize the SEO of a website
-- 🚀 Optimize the size and speed of a website
-- ♿ Ensure the accessibility of a website
-- 📚 Conduct research on best practices in web development
-
-## 14 Optimization Recommendations
-
-**SEO:**
-1. Add content to the empty `<meta description>` tag
-2. Add a title to the empty `<title>` tag
-3. Add a `<meta robots>` tag
-4. Restructure the order of hn headings by adding an `<h2>` tag
-
-**Accessibility:**
-1. Increase the contrast between text and background
-2. Adapt "alt" text to the content of images
-3. Increase font size
-4. Add text to social media links
-5. Modify redundant links
-6. Link `<input>` elements to `<label>` elements in the form
-7. Add focus to clickable elements (links, buttons, forms)
-
-**Performance:**
-1. Optimize images in terms of format and size and apply width and height
-2. Minify certain CSS and JavaScript files
-3. Add the property and value "font-display: swap" to the @font-face block
-
-## Built With
-
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [W3C Validator](https://validator.w3.org/)
-- [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en&pli=1) (Performance, Accessibility, SEO)
-- [Pagespeed](https://pagespeed.web.dev/?hl=en) (Performance, Accessibility, SEO)
-- [Wave](https://wave.webaim.org/) (Accessibility)
-- [Colour Contrast Analyzer](https://developer.paciellogroup.com/color-contrast-checker/)
-- [Pingdom](https://tools.pingdom.com/) (For site and file/folder size)
-- [Dev tool Google Chrome](https://developer.chrome.com/)
-- [GitHub](https://github.com/)
-- [GitHub Pages](https://pages.github.com/)
-
-## Author
-
-- [@hileene](https://www.github.com/Hileene)
-- [**Portfolio**](https://portfolio-test.com)
 
 
 
